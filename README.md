@@ -17,4 +17,4 @@ In this project, I explored text generation using two deep learning-based langua
 
 
 
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/a529b2a0-f499-4dbf-b24e-d832a0a3e3b8)
